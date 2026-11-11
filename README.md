@@ -11,8 +11,8 @@ handle: "@kodigos88"
 role: "Senior Web Developer & Bespoke App Architect"
 portfolio: "https://codigosatdev.com"
 specialties:
-  - "High-performance WordPress & WooCommerce Engineering"
-  - "Custom Theme & Plugin Development (Zero-bloat)"
+  - "High-performance WordPress, WooCommerce & Shopify Engineering"
+  - "Custom Theme & Plugin Development (PHP, Liquid, Zero-bloat)"
   - "Modern Full-Stack Apps (Astro v5, Next.js, PWAs)"
   - "Deterministic Agentic Workflows & Linux Automation"
 motto: "Fast code, bulletproof architecture, zero slop."
@@ -37,6 +37,8 @@ motto: "Fast code, bulletproof architecture, zero slop."
 <p align="left">
   <img src="https://img.shields.io/badge/WORDPRESS_CORE-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/WOOCOMMERCE-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+  <img src="https://img.shields.io/badge/SHOPIFY-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/LIQUID_TEMPLATES-212B36?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
   <img src="https://img.shields.io/badge/ELEMENTOR_PRO-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/MYSQL_/_MARIADB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />

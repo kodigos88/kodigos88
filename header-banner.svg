@@ -32,7 +32,7 @@
   <text x="40" y="112" class="title">ARTURO TOVAR <tspan class="accent">//</tspan> KODIGOS88</text>
 
   <!-- Subtitle -->
-  <text x="40" y="148" class="desc">SENIOR WEB DEVELOPER • WOOCOMMERCE &amp; BESPOKE APPS • LINUX &amp; AGENTS</text>
+  <text x="40" y="148" class="desc">SENIOR WEB DEVELOPER • WOOCOMMERCE, SHOPIFY &amp; BESPOKE APPS</text>
 
   <!-- Bottom Details -->
   <line x1="40" y1="172" x2="840" y2="172" stroke="#262626" stroke-width="2" />
