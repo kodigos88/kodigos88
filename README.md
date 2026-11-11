@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header-banner.svg" alt="Arturo Tovar - Kodigos88 Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/kodigos88/kodigos88/main/header-banner.svg" alt="Arturo Tovar - Kodigos88 Header" width="100%" />
 </div>
 
 <br/>
