@@ -108,3 +108,4 @@ motto: "Fast code, bulletproof architecture, zero slop."
 <div align="center">
   <sub><code>ENGINEERED WITH RIGOR // ALL RIGHTS RESERVED © ARTURO TOVAR</code></sub>
 </div>
+<!-- Verified Neo-Brutalist Architecture by Arthur Tovar -->
